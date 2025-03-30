@@ -11,3 +11,61 @@ Cover letter format guidance:
       Single-spacing within paragraphs.
       Double-spacing between paragraphs for readability.
     Save and send your cover letter as a PDF to ensure proper formatting across devices.
+
+The general recommended structure:
+  Your Personal Information:
+    Full name.
+    Job title -as listed in the job offer-.
+    Phone number.
+    Email address.
+    LinkedIn or Portfolio link -Optional-.
+  Current Date.
+  Company Information:
+    Hiring manager’s or recruiter’s name -if available-.
+    Company name.
+    Company address -or location-.
+  Greeting:
+    If you know the name: 
+      Dear Mr./Ms. [Last Name].
+    If unknown: 
+      Dear Hiring Manager. 
+        Avoid generic "To whom it may concern".
+  Opening Paragraph -Hook & Enthusiasm-:
+    Avoid generic openings.
+      Instead, express enthusiasm and highlight relevant skills immediately.
+    Brainstorm using three categories: 
+      Personal connection, common misconception, and interesting fact. 
+    Including the following 2 things can help you:
+      What you know about the company.  
+      What you admire about the company. 
+    For example:
+      As a passionate Full-Stack Developer with expertise in Angular and AWS, 
+      I was excited to see the [Job Title] opening at [Company Name]. 
+      After learning about [Company's mission/project], 
+      I am eager to contribute my skills in [Key Skill] and [Key Skill] 
+      to drive [specific impact].
+  Middle Paragraph(s) -Highlight Your Value-:
+    It can be one or 2 paragraphs.
+    You should answer the following questions: 
+      What you can bring to the company?
+      How your skills apply to the role?
+        Connect your past accomplishments to the job.  
+      Why you are the right fit?
+      What you aim to accomplish?
+      Identify the company’s hiring needs and explain how your skills can address them?
+  Closing Paragraph -Call to Action-:
+    Reaffirm your enthusiasm for the role.
+    Thank the hiring manager for their time.
+    Express your willingness to discuss further in an interview.
+      Example:
+        I am excited about the opportunity to bring my expertise in 
+        JavaScript, Angular, and AWS to [Company Name]. 
+        I welcome the chance to further discuss how my experience aligns with your needs. 
+        Thank you for your time—I look forward to your response!
+  Complimentary Close & Signature:
+    Use a professional closing phrase such as:
+      Best regards, / Sincerely, / Kind regards,
+      Your full name
+      Example:
+        Best regards,
+        Ahmed Ben Chakhter
