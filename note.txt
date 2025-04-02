@@ -79,4 +79,21 @@ Your cover letter should:
   Show adaptability and eagerness to learn, especially if lacking experience.  
   Balance enthusiasm with professionalism: Avoid sounding desperate.
   Be 100% Purposeful, every sentence should serve a purpose, for example:
-    Avoid generic introductions like -Hi, my name is...-.          
+    Avoid generic introductions like -Hi, my name is...-.
+
+Things to do, enhancing you cover letter:
+  Before writing your cover letter do the following:
+    Do your research -aiming to add a personal touches-: 
+      Learn about the company’s mission, you can do this through: 
+        Read the About us page of the company, knowing their values and missions. 
+        Visit the company accounts like linkedIn and twitter, knowing the current topics. 
+        See the company's employees posts. 
+      Learn about the current projects. 
+      Try to know the hiring manager’s or the recruiter name to tailor the letter effectively. 
+  After finishing the cover letter writing, try to do the following:
+    Use AI to detect any possible grammatical mistakes or typos.
+    Do something else for over 10 minutes and then proofread your cover letter carefully.
+  Get feedback: 
+    Have someone proofread for clarity and tone.  
+  Use a template if possible: 
+    Customize a well-structured cover letter for each job instead of rewriting from scratch.
